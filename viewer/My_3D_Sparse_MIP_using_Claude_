@@ -1,0 +1,1 @@
+Let's build the Three.js HTML viewer. The standalone HTML file with Three.js to open in a browser. We will continue to use the volume created from the DICOM slices found at:  https://github.com/markjschmidt/PET_MIP/tree/main/DICOM/S18750/S29811
